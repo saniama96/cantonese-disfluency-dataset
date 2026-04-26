@@ -1,0 +1,31 @@
+Transcription Date: April 25, 2026
+Tool used: Google Docs Voice Typing
+Audio file name: 5min_conversation.m4a
+Length of audio: 5 minutes 28 seconds
+Time taken to transcribe: 2 hours 15 minutes
+
+Errors found:
+- Deleted all filled pauses (e.g., 唉, 嗯, 喂, 哦)
+- Misheard 龍脊 as another word
+- No speaker separation
+- No punctuation
+- Misheard 廚師發辦 as random sounds
+- Tone errors (e.g., 去 became 出)
+- Misheard 叉燒飯 as 差燒飯
+- Did not recognize C can
+- Did not detect repetitions or false starts
+- Background noise caused 3-4 unintelligible words
+
+Bottlenecks/problems:
+- Had to listen 2-3 times per sentence
+- Poor Cantonese tone recognition
+- Added all punctuation manually
+- Fast casual speech caused missed words
+- Had to compare line by line with correct transcript
+
+Other notes:
+- Correct transcript from Person 1 saved time
+- Auto transcription took 12 minutes
+- Manual correction took 2 hours 3 minutes
+- Recommend WhisperX for remaining 55 minutes
+- Recommend quieter recording environment
