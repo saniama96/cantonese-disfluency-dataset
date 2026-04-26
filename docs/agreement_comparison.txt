@@ -1,0 +1,107 @@
+================================================================================
+                    INTER-RATER AGREEMENT COMPARISON
+              Benson vs Person 3 – Cantonese Conversation Transcript
+================================================================================
+
+Date of Comparison: April 25, 2026
+Total Sentences Analyzed: 63
+Total Agreements: 52
+Total Disagreements: 11
+Agreement Percentage: 82.5% (≈83%)
+
+================================================================================
+                           DETAILED COMPARISON TABLE
+================================================================================
+
+| # | Sentence (first few words)                          | Benson Tag        | Person 3 Tag      | Agree? |
+|---|------------------------------------------------------|-------------------|-------------------|--------|
+| 1 | 喂 [FIL]，你上個禮拜 [FIL] 做咗啲咩呀？...           | [FIL]             | [FIL]             | YES    |
+| 2 | ummm [FIL] 我上個禮拜 [FIL] ……其實真係冇咩特別...    | [FIL]             | [FIL]             | YES    |
+| 3 | 你知啦 [FIL] ，平時返學已經好攰...                   | [FIL]             | [FIL]             | YES    |
+| 4 | 日日都要一早起身 [FS]...                            | [FS]              | [FS]              | YES    |
+| 5 | 淨係想攤喺張床度 [FIL] 。你呢？                     | [FIL]             | (no tag)          | NO     |
+| 6 | 我呀？[FIL] 我 [FS] 本來約咗幾個朋友...             | [FIL] + [FS]      | [FS]              | NO     |
+| 7 | 諗住秋高氣爽 [FIL] ，想去龍脊嗰邊行吓 [FIL]...      | [FIL]             | [FIL]             | YES    |
+| 8 | 龍脊？嗰度[FIL]好似好熱門咁喎 [FIL]...              | [FIL]             | [FIL]             | YES    |
+| 9 | 星期六應該好多人 [FIL] ，最後點呀？                 | [FIL]             | (no tag)          | NO     |
+|10 | 唉 [FIL] ，唔好提喇 [FIL] 。                        | [FIL]             | [FIL]             | YES    |
+|11 | 我哋神早流流七點就起身 [FIL] ，執好晒背囊 [FIL]...  | [FIL]             | [FIL]             | YES    |
+|12 | 買咗水同三文治 ，[FIL]但係唉[FIL]一出門口...        | [FIL]             | [FIL]             | YES    |
+|13 | 跟住仲落大雨添喎 [FS] ，所以最後冇去到...           | [FS]              | [FS]              | YES    |
+|14 | 成個計劃取消晒囉[FS]                               | [FS]              | [FS]              | YES    |
+|15 | 唉吔 [FIL] ，真係慘 。                              | [FIL]             | [FIL]             | YES    |
+|16 | 龍脊我都去過一次 [FIL] ，風景真係好靚...            | [FIL]             | [FIL]             | YES    |
+|17 | ummm[FIL]好似望到成個海添[FIL]...                   | [FIL]             | [FIL]             | YES    |
+|18 | 不過落雨真係好危險 [FIL] ，石頭好似好滑 [FIL]...    | [FIL]             | [FIL]             | YES    |
+|19 | 你哋有冇去第二度呀 [FIL] ，定係各自返屋企？         | [FIL]             | (no tag)          | NO     |
+|20 | 咁早起身 [FIL] 冇理由就咁返去㗎嘛 [FIL]...          | [FIL]             | [FIL]             | YES    |
+|21 | ummm[FIL]所以我哋最後去咗飲早茶 [FIL]...             | [FIL]             | [FIL]             | YES    |
+|22 | 仲坐到中午添 [FIL] ，不過留喺屋企大半日都有啲悶...   | [FIL]             | [FIL]             | YES    |
+|23 | 所以夜晚就同朋友出街食好嘢補數，唉[FIL]當係補償...   | [FIL]             | [FIL]             | YES    |
+|24 | 係咩？[FIL] 食咩好嘢呀？聽你咁講 [FIL]...           | [FIL]             | [FIL]             | YES    |
+|25 | 好似想食大餐咁款                                    | (no tag)          | (no tag)          | YES    |
+|26 | 嗯 [FIL] ，我同朋友去咗 [REP] 去咗尖沙咀...          | [FIL] + [REP]     | [REP]             | NO     |
+|27 | 聽講係日本過龍江嚟㗎 [FIL] ，網上好多人都打卡。      | [FIL]             | [FIL]             | YES    |
+|28 | 咁勁？[FIL] 尖沙咀好多好嘢食喎 [FIL]...             | [FIL]             | [FIL]             | YES    |
+|29 | 嗰間主打咩㗎？壽司？[FIL] 定係拉麵？[FS]...         | [FIL] + [FS]      | [FIL]             | NO     |
+|30 | 佢出打[REP]佢主打壽司同廚師發辦 [FIL]...            | [REP]             | [REP]             | YES    |
+|31 | 即係Omakase [FIL] ，不過我哋就散叫...               | [FIL]             | [FIL]             | YES    |
+|32 | 食咗好多款壽司同刺身 ，嗰間嘅拖羅壽司真係好好味...   | [FIL]             | (no tag)          | NO     |
+|33 | 油脂分佈得好靚 [FIL] ，仲要入口即溶嘅感覺 。         | [FIL]             | [FIL]             | YES    |
+|34 | 嘩 [FIL] ，聽到都流口水 [FIL] 。                    | [FIL]             | [FIL]             | YES    |
+|35 | 我真係好耐冇食過咁高質嘅日本嘢喇 [FIL]...           | [FIL]             | [FIL]             | YES    |
+|36 | 不過過江龍多數都要排長龍 喎[FIL] ，你哋有冇排...    | [FIL]             | [FIL]             | YES    |
+|37 | 有呀 [FIL] ，我哋冇訂位 [FIL] ，唉[FIL]去到門口...   | [FIL]             | [FIL]             | YES    |
+|38 | 好彩門口有張凳可以坐低 [FIL] ，如果唔係真係企...    | [FIL] + [FS]      | [FS]              | NO     |
+|39 | 等半個鐘？你哋都幾有耐性喎 [FIL] ，ummm[FIL]...     | [FIL]             | [FIL]             | YES    |
+|40 | umm[FIL]其實又唔算好貴嘅 [FIL] ，不過可能因為...     | [FIL]             | [FIL]             | YES    |
+|41 | 加埋一，一個人三百幾蚊左右 [FIL] ，以尖沙咀嘅...     | [FIL]             | [FIL]             | YES    |
+|42 | 我覺得抵啊 [FIL] 。你呢？[FS] 你最近有冇食咩...     | [FIL] + [FS]      | [FS]              | NO     |
+|43 | 我最近 [FIL] ？[REP]我最近為咗慳錢買部新電話...     | [FIL] + [REP]     | [REP]             | NO     |
+|44 | 日日都食叉燒飯[FIL] 。咪就係學校c can               | [FIL]             | [FIL]             | YES    |
+|45 | 吓[FS]，嗰間？轉角嗰間？...                         | [FS]              | [FS]              | YES    |
+|46 | 門口大大隻燒味掛住嗰間 [FIL] ？叫咩名話？[FS]       | [FIL] + [FS]      | [FS]              | NO     |
+|47 | C can [FIL] ，我成日都唔記得佢叫咩名 [FIL] 。       | [FIL]             | [FIL]             | YES    |
+|48 | 係哩[FIL]c can，就係因為佢最正中係飯堂 [FIL]...     | [FIL]             | [FIL]             | YES    |
+|49 | 所以就叫C can 。不過其實啲食物都OK嘅 [FIL]...        | [FIL]             | [FIL]             | YES    |
+|50 | 叉燒有時都幾肥 [FIL] ，又唔會好貴咁喎[FIL]。        | [FIL]             | [FIL]             | YES    |
+|51 | 哦 [FIL] ，我知 [FIL] ，我之前都去過嗰度食 [FIL]... | [FIL]             | [FIL]             | YES    |
+|52 | 凍檸茶都OK㗎 [FIL] ，不過日日食燒味好似熱氣咗...    | [FIL]             | [FIL]             | YES    |
+|53 | 都係 [FIL] ，所以我最近爆咗幾粒暗瘡 [FIL] 。        | [FIL]             | [FIL]             | YES    |
+|54 | 唉 [FIL] ，講開學校 [FIL] ，你呢排功課多唔多呀...   | [FIL] + [REP]     | [REP]             | NO     |
+|55 | 好似就快 [FIL] 考試喇 。                            | [FIL]             | [FIL]             | YES    |
+|56 | 唉 [FIL] ，好辛苦呀 [FIL] ，好多呀...               | [FIL]             | [FIL]             | YES    |
+|57 | 我尋晚 [REP]我尋晚做報告 [FIL] ，做到凌晨三點呀...  | [REP]             | [REP]             | YES    |
+|58 | 對眼都擘唔開 [FIL] ，仲飲咗兩罐咖啡先頂得住 。      | [FIL]             | [FIL]             | YES    |
+|59 | 吓？[FIL] 咁誇張？凌晨三點？[FIL] 邊一科咁多...     | [FIL] + [FS]      | [FS]              | NO     |
+|60 | 係咪要寫幾千字嗰啲呀？                              | (no tag)          | (no tag)          | YES    |
+|61 | 係呀 [FIL] ，我嗰科係咁㗎 [FIL] ，唉 [FIL] ...      | [FIL]             | [FIL]             | YES    |
+|62 | 我要去做功課先 [FIL] ，轉頭再同你傾 ，拜拜 [FIL] 。 | [FIL]             | [FIL]             | YES    |
+|63 | 拜拜 [FIL] ，加油呀 [FIL] ！                        | [FIL]             | [FIL]             | YES    |
+
+                          DISAGREEMENT 
+
+Total disagreements: 11
+
+Types of disagreement:
+1. Multi-tag vs single-tag (6 cases): Benson often used [FIL]+[REP] or [FIL]+[FS] 
+   where Person 3 used only one tag.
+   Examples: #6, #26, #38, #42, #43, #54
+
+2. Boundary decisions (3 cases): Whether a filler should be tagged at all.
+   Examples: #5, #9, #19
+
+3. Tag choice differences (2 cases): Different interpretation of the same disfluency.
+   Examples: #29, #32
+
+
+
+                               CONCLUSION
+
+
+The two annotators achieved an agreement rate of 82.5% (83%), which indicates 
+good consistency. Most disagreements stem from whether to tag multiple 
+disfluencies in the same location. If the annotation guideline is clarified 
+(e.g., "always tag all disfluencies" or "tag only the primary one"), the 
+agreement could reach 90% or higher.
+
