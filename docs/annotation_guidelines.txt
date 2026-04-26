@@ -1,0 +1,25 @@
+CANTONESE DISFLUENCY ANNOTATION GUIDELINES (v2 - after 83% agreement)
+
+Three tags only:
+
+[FIL] - Filled pause (um, aa, mm, er, 唉, 喂, 嗯)
+Example: 我 [FIL] 想去食飯
+
+[REP] - Repair (repeating or correcting)
+Example: 我尋晚 [REP] 我尋晚做報告
+
+[FS] - False start (changing direction, no repetition)
+Example: 我要 [FS] 我想食飯
+
+IMPORTANT RULE FROM AGREEMENT ANALYSIS (83%):
+- If multiple disfluencies happen in the SAME location → tag ALL of them
+- Example: "我呀？[FIL] 我 [FS] 本來約咗" → Use [FIL] + [FS] together
+
+Rule for REP vs FS:
+- If ANY word is repeated → use [REP]
+- If NO words are repeated → use [FS]
+
+Rule for FIL:
+- If you can remove it and sentence still makes sense → use [FIL]
+
+When unsure: Discuss with your group and document your decision.
